@@ -6,4 +6,4 @@ Problems based on multivariate or multiple variables regression
 
 1)Computer Data
 2)Toyota Corolla Data
-3)50_StartUP Data
+3)50_Startups Data
